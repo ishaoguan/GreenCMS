@@ -1,0 +1,78 @@
+[ 2016-06-05T12:03:17+08:00 ] 127.0.0.1 /greencms/install.php?m=install&c=index&a=step2
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+NOTIC: [8] Use of undefined constant GreenCMS_DB_TYPE - assumed 'GreenCMS_DB_TYPE' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 11 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_HOST - assumed 'GreenCMS_DB_HOST' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_NAME - assumed 'GreenCMS_DB_NAME' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_USR - assumed 'GreenCMS_DB_USR' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PWD - assumed 'GreenCMS_DB_PWD' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PORT - assumed 'GreenCMS_DB_PORT' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PREFIX - assumed 'GreenCMS_DB_PREFIX' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001264s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000565s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\c6b95ffd6107dd1ef083fee46b437e31.php 第 201 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\c6b95ffd6107dd1ef083fee46b437e31.php 第 209 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\c6b95ffd6107dd1ef083fee46b437e31.php 第 209 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\c6b95ffd6107dd1ef083fee46b437e31.php 第 210 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\c6b95ffd6107dd1ef083fee46b437e31.php 第 228 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045549s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045927s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001272s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000851s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2016-06-05T12:03:20+08:00 ] 127.0.0.1 /greencms/install.php?m=install&c=index&a=step3
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] Use of undefined constant GreenCMS_DB_TYPE - assumed 'GreenCMS_DB_TYPE' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 11 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_HOST - assumed 'GreenCMS_DB_HOST' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_NAME - assumed 'GreenCMS_DB_NAME' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_USR - assumed 'GreenCMS_DB_USR' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PWD - assumed 'GreenCMS_DB_PWD' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PORT - assumed 'GreenCMS_DB_PORT' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PREFIX - assumed 'GreenCMS_DB_PREFIX' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001452s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000339s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\aa675d8a0a9813ca02a884d1fb52f238.php 第 209 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\aa675d8a0a9813ca02a884d1fb52f238.php 第 217 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\aa675d8a0a9813ca02a884d1fb52f238.php 第 217 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\aa675d8a0a9813ca02a884d1fb52f238.php 第 218 行.
+NOTIC: [8] Undefined variable: user D:\wamp\www\GreenCMS\Install\Runtime\Cache\Install\aa675d8a0a9813ca02a884d1fb52f238.php 第 236 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000724s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000965s ]
+
+[ 2016-06-05T12:04:17+08:00 ] 127.0.0.1 /greencms/install.php?m=install&c=index&a=step4
+INFO: [ app_init ] --START--
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Use of undefined constant GreenCMS_DB_TYPE - assumed 'GreenCMS_DB_TYPE' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 11 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_HOST - assumed 'GreenCMS_DB_HOST' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_NAME - assumed 'GreenCMS_DB_NAME' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_USR - assumed 'GreenCMS_DB_USR' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 14 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PWD - assumed 'GreenCMS_DB_PWD' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PORT - assumed 'GreenCMS_DB_PORT' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant GreenCMS_DB_PREFIX - assumed 'GreenCMS_DB_PREFIX' D:\wamp\www\GreenCMS\Install\Install\Conf\config.php 第 17 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002452s ]
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\GreenCMS\Install\Install\Common\function.php 第 11 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\wamp\www\GreenCMS\Install\Install\Controller\IndexController.class.php 第 151 行.
+
